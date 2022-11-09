@@ -1,0 +1,28 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url('img/casino.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 45px;
+    font-weight: bolder;
+    text-shadow: 3px 3px 3px gray;
+}
+
+h1{
+    color: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+}
+.btn{
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    width: 200px;
+    height: 42px;
+    background-color: goldenrod;
+    border-radius: 35px;
+}
